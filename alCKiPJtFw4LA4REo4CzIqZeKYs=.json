@@ -1,0 +1,339 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "DSRP",
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["11131", "11125"],
+    "dispatchAdvancedServerGroups": ["95"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": ["1","3"],
+    "rtoChannels": ["2","4","5"],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "HP North",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]HP North[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "HP South",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]HP South[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "HP Rcrd",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]HP Records[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "HP TAC 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]HP TAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "HP TAC 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]HP TAC[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "HP 51",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]HP 51[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "HP 52",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]HP 52[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "HP 53",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]HP 53[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "BCSO Disp",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]BCSO Disp[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "BCSO Rcdr",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]BCSO Records[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "BCSO TAC 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]BCSO TAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "BCSO TAC 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]BCSO TAC 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "BCSO TAC 3",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]BCSO TAC 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 14,
+            "name": "BCSO Car",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]BCSO Car/Car[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 15,
+            "name": "BCSO Evnt 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]BCSO Evnt 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 16,
+            "name": "BCSO Evnt 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]BCSO Evnt 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 17,
+            "name": "LSPD Disp",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]LSPD Disp[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 18,
+            "name": "LSPD Rcrd",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]LSPD Records[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 19,
+            "name": "LSPD TAC 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]LSPD TAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 20,
+            "name": "LSPD TAC 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]LSPD TAC 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 21,
+            "name": "LSPD TAC 3",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]LSPD TAC 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 22,
+            "name": "HELPDESK",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Radio Help Desk[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": ["8"],
+            "clientUidList": ["ZKWiqOkbu9tFiiFfafqzjcTOmGI=","1Z+NZNtmBInd8LwwLR8OhT95xvU=","7EC7srVvak3fd2ShJ+FHCTNs3zI="]
+        },
+        "permExtra": {
+            "serverGroupList": ["18"],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["17"],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["16"],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": ["15"],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["14","13","12"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["11","10"],
+            "clientUidList": ["YD/784W4s0wjWLd5wEUE0C7GKEY="]
+        }
+    }
+}
