@@ -4,7 +4,9 @@
     "command_validation_str": "Radio20",
     "current_versions": ["1.1.4-beta1", "1.1.4", "1.1.5-beta"],
     "permitted_versions": ["1.1.2"],
-    "authorized_servers": ["BHqnj1xp4+S9O738jefN84zZInY="],
+    "authorized_servers": ["BHqnj1xp4+S9O738jefN84zZInY=",
+                           "alCKiPJtFw4LA4REo4CzIqZeKYs="
+    ],
     "dev_uid_list": [
         "-------"
     ]
