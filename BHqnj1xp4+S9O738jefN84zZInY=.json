@@ -286,7 +286,7 @@
             "id": 22,
             "name": "LSFD Patrol",
             "soundName": "",
-            "type": "FIRE",
+            "type": "Fire",
             "coloredName": "[color=green]LSFD Patrol[/color]",
             "talkEnforcement": true,
             "talkAround": false,
