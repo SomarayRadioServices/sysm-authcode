@@ -284,6 +284,18 @@
         },
         {
             "id": 22,
+            "name": "LSFD Patrol",
+            "soundName": "",
+            "type": "FIRE",
+            "coloredName": "[color=green]LSFD Patrol[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 23,
             "name": "HELPDESK",
             "soundName": "",
             "type": "LEO",
