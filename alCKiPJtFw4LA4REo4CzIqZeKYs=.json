@@ -31,7 +31,7 @@
     "rtoChannels": ["3","4"],
     "radioChannels": [
         {
-            "id": 27001,
+            "id": 1,
             "name": "SA Law Disp",
             "soundName": "",
             "type": "LEO",
