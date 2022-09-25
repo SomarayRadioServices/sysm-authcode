@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "DSRP",
+    "communityName": "SERS | OGRP #1",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -43,7 +43,7 @@
             "permission": 1
         },
         {
-            "id": 91001,
+            "id": 2,
             "name": "HP North",
             "soundName": "",
             "type": "LEO",
@@ -55,7 +55,7 @@
             "permission": 1
         },
         {
-            "id": 91002,
+            "id": 3,
             "name": "HP South",
             "soundName": "",
             "type": "LEO",
@@ -67,7 +67,7 @@
             "permission": 1
         },
         {
-            "id": 25101,
+            "id": 4,
             "name": "BCSO Disp",
             "soundName": "",
             "type": "LEO",
@@ -79,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 27101,
+            "id": 5,
             "name": "LSPD Disp",
             "soundName": "",
             "type": "LEO",
@@ -91,7 +91,7 @@
             "permission": 1
         },
         {
-            "id": 27070,
+            "id": 6,
             "name": "27 RDC Fire",
             "soundName": "",
             "type": "LEO",
@@ -103,7 +103,7 @@
             "permission": 1
         },
         {
-            "id": 27011,
+            "id": 7,
             "name": "27 RDC TAC 1",
             "soundName": "",
             "type": "LEO",
@@ -115,7 +115,7 @@
             "permission": 1
         },
         {
-            "id": 27012,
+            "id": 8,
             "name": "27 RDC TAC 2",
             "soundName": "",
             "type": "LEO",
@@ -127,7 +127,7 @@
             "permission": 1
         },
         {
-            "id": 27061,
+            "id": 9,
             "name": "27 RDC Rcrd",
             "soundName": "",
             "type": "LEO",
@@ -139,7 +139,7 @@
             "permission": 1
         },
         {
-            "id": 25123,
+            "id": 10,
             "name": "HELPDESK",
             "soundName": "",
             "type": "Announcement",
