@@ -33,7 +33,7 @@
         {
             "id": 1,
             "name": "SA Law Disp",
-            "soundName": "",
+            "soundName": "lawdispatch",
             "type": "LEO",
             "coloredName": "[color=blue]SA Law Dispatch[/color]",
             "talkEnforcement": true,
@@ -45,7 +45,7 @@
         {
             "id": 2,
             "name": "HP North",
-            "soundName": "",
+            "soundName": "north",
             "type": "LEO",
             "coloredName": "[color=blue]HP North[/color]",
             "talkEnforcement": true,
@@ -57,7 +57,7 @@
         {
             "id": 3,
             "name": "HP South",
-            "soundName": "",
+            "soundName": "south",
             "type": "LEO",
             "coloredName": "[color=blue]HP South[/color]",
             "talkEnforcement": true,
@@ -69,7 +69,7 @@
         {
             "id": 4,
             "name": "BCSO Disp",
-            "soundName": "",
+            "soundName": "lawdispatch",
             "type": "LEO",
             "coloredName": "[color=blue]BCSO Dispatch[/color]",
             "talkEnforcement": true,
@@ -81,7 +81,7 @@
         {
             "id": 5,
             "name": "LSPD Disp",
-            "soundName": "",
+            "soundName": "lawdispatch",
             "type": "LEO",
             "coloredName": "[color=blue]PD Dispatch[/color]",
             "talkEnforcement": true,
@@ -93,7 +93,7 @@
         {
             "id": 6,
             "name": "27 RDC Fire",
-            "soundName": "",
+            "soundName": "firechan",
             "type": "LEO",
             "coloredName": "[color=red]RDC Fire 1[/color]",
             "talkEnforcement": true,
@@ -105,7 +105,7 @@
         {
             "id": 7,
             "name": "27 RDC TAC 1",
-            "soundName": "",
+            "soundName": "tac1",
             "type": "LEO",
             "coloredName": "[color=grey]27 RDC TAC 1[/color]",
             "talkEnforcement": true,
@@ -117,7 +117,7 @@
         {
             "id": 8,
             "name": "27 RDC TAC 2",
-            "soundName": "",
+            "soundName": "tac2",
             "type": "LEO",
             "coloredName": "[color=grey]27 RDC TAC 2[/color]",
             "talkEnforcement": true,
@@ -129,7 +129,7 @@
         {
             "id": 9,
             "name": "27 RDC Rcrd",
-            "soundName": "",
+            "soundName": "rcrds",
             "type": "LEO",
             "coloredName": "[color=grey]27 RDC Records[/color]",
             "talkEnforcement": true,
@@ -141,7 +141,7 @@
         {
             "id": 10,
             "name": "HELPDESK",
-            "soundName": "",
+            "soundName": "helpdesk",
             "type": "Announcement",
             "coloredName": "[color=green]Radio Help Desk[/color]",
             "talkEnforcement": true,
