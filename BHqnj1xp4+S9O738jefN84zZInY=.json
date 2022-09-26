@@ -142,7 +142,7 @@
             "id": 25123,
             "name": "HELPDESK",
             "soundName": "",
-            "type": "Announcement",
+            "type": "announce",
             "coloredName": "[color=green]Radio Help Desk[/color]",
             "talkEnforcement": true,
             "talkAround": false,
