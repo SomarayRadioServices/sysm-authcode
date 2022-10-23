@@ -180,7 +180,7 @@
     ],
     "time_settings": {
         "emergencyOverridePeriod": 10,
-        "emergencyCooldown": 1,
+        "emergencyCooldown": 2,
         "emergencyOtherCooldown": 1,
         "dispatchToneCooldown": 1,
         "radioStunCooldown": 5,
