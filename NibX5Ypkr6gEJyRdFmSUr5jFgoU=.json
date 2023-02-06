@@ -26,9 +26,9 @@
         "[EVAL]"
     ],
     "civilianServerGroups": ["35"],
-    "civChannels": ["5"],
+    "civChannels": ["38"],
     "radioSystems": ["36"],
-    "rtoChannels": ["37","38","39"],
+    "rtoChannels": ["37"],
     "radioChannels": [
         {
             "id": 1,
