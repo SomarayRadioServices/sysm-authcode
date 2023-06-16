@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "SERS | OGRP #1",
+    "communityName": "ODL",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["11131", "11125"],
-    "dispatchAdvancedServerGroups": ["95"],
+    "dispatchServerGroups": ["31"],
+    "dispatchAdvancedServerGroups": ["31"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -25,15 +25,15 @@
         "[QA]",
         "[EVAL]"
     ],
-    "civilianServerGroups": [""],
-    "civChannels": ["5"],
-    "radioSystems": ["2"],
-    "rtoChannels": ["3","4"],
+    "civilianServerGroups": ["35"],
+    "civChannels": ["38"],
+    "radioSystems": ["36"],
+    "rtoChannels": ["37"],
     "radioChannels": [
         {
             "id": 1,
             "name": "SA Law Disp",
-            "soundName": "lawdispatch",
+            "soundName": "Ch_SWDispatch",
             "type": "LEO",
             "coloredName": "[color=blue]SA Law Dispatch[/color]",
             "talkEnforcement": true,
@@ -69,7 +69,7 @@
         {
             "id": 4,
             "name": "BCSO Disp",
-            "soundName": "lawdispatch",
+            "soundName": "Ch_PatrolOps1",
             "type": "LEO",
             "coloredName": "[color=blue]BCSO Dispatch[/color]",
             "talkEnforcement": true,
@@ -81,7 +81,7 @@
         {
             "id": 5,
             "name": "LSPD Disp",
-            "soundName": "lawdispatch",
+            "soundName": "Ch_PatrolOps2",
             "type": "LEO",
             "coloredName": "[color=blue]PD Dispatch[/color]",
             "talkEnforcement": true,
@@ -93,7 +93,7 @@
         {
             "id": 6,
             "name": "27 RDC Fire",
-            "soundName": "firechan",
+            "soundName": "Ch_FireOps",
             "type": "LEO",
             "coloredName": "[color=red]RDC Fire 1[/color]",
             "talkEnforcement": true,
@@ -105,7 +105,7 @@
         {
             "id": 7,
             "name": "27 RDC TAC 1",
-            "soundName": "tac1",
+            "soundName": "Ch_Tac1",
             "type": "LEO",
             "coloredName": "[color=grey]27 RDC TAC 1[/color]",
             "talkEnforcement": true,
@@ -117,7 +117,7 @@
         {
             "id": 8,
             "name": "27 RDC TAC 2",
-            "soundName": "tac2",
+            "soundName": "Ch_Tac2",
             "type": "LEO",
             "coloredName": "[color=grey]27 RDC TAC 2[/color]",
             "talkEnforcement": true,
@@ -129,7 +129,7 @@
         {
             "id": 9,
             "name": "27 RDC Rcrd",
-            "soundName": "rcrds",
+            "soundName": "Ch_LEOCars",
             "type": "LEO",
             "coloredName": "[color=grey]27 RDC Records[/color]",
             "talkEnforcement": true,
@@ -164,32 +164,32 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["8"],
-            "clientUidList": ["ZKWiqOkbu9tFiiFfafqzjcTOmGI=","1Z+NZNtmBInd8LwwLR8OhT95xvU=","7EC7srVvak3fd2ShJ+FHCTNs3zI="]
+            "serverGroupList": ["27","28","29","30"],
+            "clientUidList": [""]
         },
         "permExtra": {
             "serverGroupList": ["18"],
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["17"],
+            "serverGroupList": ["24"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["16"],
+            "serverGroupList": ["23"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["15"],
+            "serverGroupList": ["22"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["14","13","12"],
+            "serverGroupList": ["20","21"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["11","10"],
-            "clientUidList": ["YD/784W4s0wjWLd5wEUE0C7GKEY="]
+            "serverGroupList": ["14","15","16","17","18"],
+            "clientUidList": [""]
         }
     }
 }
