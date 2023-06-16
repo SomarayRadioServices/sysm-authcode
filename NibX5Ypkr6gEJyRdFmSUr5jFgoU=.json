@@ -33,7 +33,7 @@
         {
             "id": 1,
             "name": "SA Law Disp",
-            "soundName": "lawdispatch",
+            "soundName": "Ch_SWDispatch",
             "type": "LEO",
             "coloredName": "[color=blue]SA Law Dispatch[/color]",
             "talkEnforcement": true,
@@ -69,7 +69,7 @@
         {
             "id": 4,
             "name": "BCSO Disp",
-            "soundName": "lawdispatch",
+            "soundName": "Ch_PatrolOps1",
             "type": "LEO",
             "coloredName": "[color=blue]BCSO Dispatch[/color]",
             "talkEnforcement": true,
@@ -81,7 +81,7 @@
         {
             "id": 5,
             "name": "LSPD Disp",
-            "soundName": "lawdispatch",
+            "soundName": "Ch_PatrolOps2",
             "type": "LEO",
             "coloredName": "[color=blue]PD Dispatch[/color]",
             "talkEnforcement": true,
@@ -93,7 +93,7 @@
         {
             "id": 6,
             "name": "27 RDC Fire",
-            "soundName": "firechan",
+            "soundName": "Ch_FireOps",
             "type": "LEO",
             "coloredName": "[color=red]RDC Fire 1[/color]",
             "talkEnforcement": true,
@@ -105,7 +105,7 @@
         {
             "id": 7,
             "name": "27 RDC TAC 1",
-            "soundName": "tac1",
+            "soundName": "Ch_Tac1",
             "type": "LEO",
             "coloredName": "[color=grey]27 RDC TAC 1[/color]",
             "talkEnforcement": true,
@@ -117,7 +117,7 @@
         {
             "id": 8,
             "name": "27 RDC TAC 2",
-            "soundName": "tac2",
+            "soundName": "Ch_Tac2",
             "type": "LEO",
             "coloredName": "[color=grey]27 RDC TAC 2[/color]",
             "talkEnforcement": true,
@@ -129,7 +129,7 @@
         {
             "id": 9,
             "name": "27 RDC Rcrd",
-            "soundName": "rcrds",
+            "soundName": "Ch_LEOCars",
             "type": "LEO",
             "coloredName": "[color=grey]27 RDC Records[/color]",
             "talkEnforcement": true,
